@@ -1,0 +1,5 @@
+let numbers = [10, 30, 20, 40, 30]
+
+numbers.forEach(function(number){
+console.log(number)
+})
